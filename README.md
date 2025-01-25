@@ -50,7 +50,7 @@ Below is the architectural pipeline workflow, represented as a data flow diagram
 The repository has the following file structure to organize the pipeline components effectively:
 
 ```
-project-directory/
+Kafka-Spark-Redshift-Streaming-Data-Ingestion-Project/
 |
 ├── docker-compose.yml           # Docker configurations for all services
 ├── kafka_producer.py            # Generates mock telecom data and sends to Kafka
